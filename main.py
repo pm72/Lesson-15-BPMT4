@@ -13,3 +13,5 @@ def my_func(a, b):
 result = my_func(25, 7)
 
 print(f"Result: {result}")
+
+print("Hi Vs Code")
